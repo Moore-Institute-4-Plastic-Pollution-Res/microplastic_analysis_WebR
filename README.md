@@ -8,6 +8,6 @@ Welcome to the Data Visualization webpage. This tool displays visual characteris
 
 # Installation
 
-- Use the web app: (https://moore-institute-4-plastic-pollution-res.github.io/microplastic_analysis_WebR/)
+- Use the web app: https://moore-institute-4-plastic-pollution-res.github.io/microplastic_analysis_WebR/
 
-- The code for the app is in [/code/data_visualization](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/Microplastic_Data_Portal/tree/main/code/data_visualization) 
+- The code for the app is in [app.R](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/microplastic_analysis_WebR/blob/main/app.R)
